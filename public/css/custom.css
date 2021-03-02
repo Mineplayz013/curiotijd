@@ -1,0 +1,48 @@
+.navbar{
+    background-color: #01367C;
+}
+.navbar h1{
+    color: #BEEF08;
+    margin-bottom: 0px;
+}
+.navbar a{
+    color: #BEEF08;
+}
+.dashboardContent{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+.headerContent{
+    display: flex;
+    justify-content: center;
+    padding-left: 600px;
+
+}
+.headerContent h4{
+    margin-top: 10px;
+    padding-left: 400px;
+}
+.studentInformation{
+    background-color: #DBDAD9;
+    padding: 10px 10px;
+    height: 210px;
+}
+/* leaderboard css */
+.leaderboard{
+    margin-left: 30px;
+}
+.leaderboard h1{
+    text-align: center;
+}
+.leaderboard p{
+    font-weight: bold;
+}
+.leaderboard hr{
+    height: 0px;
+    width: 250px;
+    margin-left: 0px;
+    border: none;
+    border-top: 2px solid ;
+}
+/* end css leaderboard */
